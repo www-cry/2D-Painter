@@ -1,0 +1,18 @@
+# Ignore build directories
+build/
+bin/
+out/
+.ninja_deps
+.ninja_log
+
+#Ignore executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# VS Code / ide files
+.vscode/
+.idea/
