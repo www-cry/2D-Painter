@@ -20,8 +20,8 @@ BuildSys: CMake
 
 1) Clone the repo
 
-   git clone https://github.com/www-cry/2DPainter.git
-   cd 2DPainter
+   git clone https://github.com/www-cry/2D-Painter.git
+   cd 2D-Painter
 
 2) Create & open build directory
 
