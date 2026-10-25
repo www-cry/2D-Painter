@@ -45,13 +45,18 @@ BuildSys: CMake
 
 # Some screenshots and comments from my friends regarding it:
 
+   - How I thought that the final UI would end:
    ![How I thought that the final UI would end:](ForReadMe/1.png)
 
-   ![Asking for a dog image:](ForReadMe/2.png);
+   - Asking for a dog image:
+   ![Asking for a dog image:](ForReadMe/2.png)
 
-   ![Creating new canvas UI:](ForReadMe/3.png);
+   - Creating new canvas UI:
+   ![Creating new canvas UI:](ForReadMe/3.png)
 
-   ![Example of drawing:](ForReadMe/4.png);
+   - Example of drawing:
+   ![Example of drawing:](ForReadMe/4.png)
 
-   ![Saved drawing:](ForReadMe/5.png);
+   - Saved drawing:
+   ![Saved drawing:](ForReadMe/5.jpg)
 
